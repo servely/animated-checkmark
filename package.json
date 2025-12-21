@@ -2,7 +2,7 @@
   "name": "@crystal-creations/animated-checkmark",
   "version": "4.0.0-beta.5",
   "type": "module",
-  "author": "Crystal Creations GbR and Johannes Huther",
+  "author": "Servely UG (haftungsbeschränkt)",
   "license": "MIT",
   "description": "A checkmark animation wrapped in a Vue component based on a codepen by Simon Wuyts",
   "scripts": {

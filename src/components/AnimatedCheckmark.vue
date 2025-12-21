@@ -1,4 +1,5 @@
 <!--
+Copyright (c) 2025 by Servely UG (haftungsbeschränkt)
 Copyright (c) 2022 by Crystal Creations GbR and Johannes Huther
 Copyright (c) 2017 by Simon Wuyts (https://codepen.io/simonwuyts/pen/mmMYzx)
 
