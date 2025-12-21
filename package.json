@@ -21,8 +21,8 @@
     "animated",
     "success"
   ],
-  "homepage": "https://github.com/Crystal-Creations-GbR/animated-checkmark",
-  "bugs": "https://github.com/Crystal-Creations-GbR/animated-checkmark/issues",
+  "homepage": "https://github.com/servely/animated-checkmark",
+  "bugs": "https://github.com/servely/animated-checkmark/issues",
   "files": [
     "dist",
     "src"
@@ -42,7 +42,7 @@
       "default": "./src/nuxt.mjs"
     }
   },
-  "repository": "https://github.com/Crystal-Creations-GbR/animated-checkmark",
+  "repository": "https://github.com/servely/animated-checkmark",
   "peerDependencies": {
     "vue": "^3.0.0",
     "vuetify": "^3.3.19"
