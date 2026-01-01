@@ -48,8 +48,8 @@
     "vuetify": "^3.3.19"
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.7.2",
-    "@commitlint/config-conventional": "^17.7.0",
+    "@commitlint/cli": "^20.3.0",
+    "@commitlint/config-conventional": "^20.3.0",
     "@nuxt/kit": "^3.7.4",
     "@nuxtjs/eslint-config-typescript": "^12.0.0",
     "@semantic-release/exec": "^6.0.3",
@@ -64,7 +64,7 @@
     "@types/node": "^20.7.1",
     "@vitejs/plugin-vue": "^4.3.4",
     "chromatic": "^7.2.0",
-    "conventional-changelog-conventionalcommits": "^7.0.2",
+    "conventional-changelog-conventionalcommits": "^9.1.0",
     "eslint": "^8.50.0",
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-prettier": "^5.0.0",
