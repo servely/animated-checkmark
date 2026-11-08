@@ -1,4 +1,4 @@
-import type { Meta, StoryObj } from "@storybook/vue3";
+import type { Meta, StoryObj } from "@storybook/vue3-vite";
 import { AnimatedCheckmark } from "../src";
 
 const meta: Meta<typeof AnimatedCheckmark> = {
